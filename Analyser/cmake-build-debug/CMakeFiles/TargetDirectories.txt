@@ -1,0 +1,3 @@
+C:/Users/erika/CLionProjects/Analyser/cmake-build-debug/CMakeFiles/Analyser.dir
+C:/Users/erika/CLionProjects/Analyser/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/erika/CLionProjects/Analyser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
